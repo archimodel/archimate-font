@@ -1,0 +1,9 @@
+
+.archimate-tool-trash:before { content: '\e800'; } /* '' */
+.archimate-tool-wrench:before { content: '\e801'; } /* '' */
+.archimate-tool-tag:before { content: '\e802'; } /* '' */
+.archimate-tool-tags:before { content: '\e803'; } /* '' */
+.archimate-relation-aggregation:before { content: '\e804'; } /* '' */
+.archimate-relation-multi:before { content: '\e805'; } /* '' */
+.archimate-relation-triggering:before { content: '\e806'; } /* '' */
+.archimate-tool-hand:before { content: '\f256'; } /* '' */

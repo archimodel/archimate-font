@@ -1,0 +1,83 @@
+{
+  "name": "archimate-font",
+  "css_prefix_text": "archimate-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "copyright": "Vincent Boulet",
+  "glyphs": [
+    {
+      "uid": "f48ae54adfb27d8ada53d0fd9e34ee10",
+      "css": "tool-trash",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "abf08be829659c02d1f9a711daefa8ce",
+      "css": "tool-hand",
+      "code": 62038,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "tool-wrench",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a3f89e106175a5c5c4e9738870b12e55",
+      "css": "tool-tags",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a7c67e36007a140ca45b2a88556f9b08",
+      "css": "relation-aggregation",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M585.9 390.6L502.9 795.9 97.7 878.9 180.7 473.6 585.9 390.6M488.3 488.3L244.1 537.1 195.3 781.3 439.5 732.4 488.3 488.3M854.5 73.2L903.3 122.1 566.4 459 517.6 410.2Z",
+        "width": 1000
+      },
+      "search": [
+        "relation-aggregation"
+      ]
+    },
+    {
+      "uid": "d42225ebcfa733d9921458511c59a0bb",
+      "css": "relation-multi",
+      "code": 59397,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M916.3 51.9L505.9 161.3 569.5 255.7 83.7 583.4 108.8 620.6 594.6 292.8 656.5 384.6 916.3 51.9 916.3 51.9ZM915.5 380L505.1 489.4 655.7 712.6 915.5 380 915.5 380ZM506.8 625.5L444 667.8 469.1 705 531.9 662.7 506.8 625.5ZM381.3 710.1L318.5 752.5 343.6 789.7 406.4 747.3 381.3 710.1ZM247.7 800.3L184.9 842.6 210 879.8 272.7 837.4 247.7 800.3ZM122.1 884.9L83.7 910.9 108.8 948.1 147.2 922.1 122.1 884.9Z",
+        "width": 1000
+      },
+      "search": [
+        "relation-multi"
+      ]
+    },
+    {
+      "uid": "3db5347bd219f3bce6025780f5d9ef45",
+      "css": "tool-tag",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9a9e7239edec2f60ca40c97cd7412bb0",
+      "css": "relation-triggering",
+      "code": 59398,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M878.9 97.7L878.9 97.7 463.9 268.6 564 368.7 75.7 856.9 119.6 900.9 607.9 412.6 708 512.7Z",
+        "width": 1000
+      },
+      "search": [
+        "relation-triggering"
+      ]
+    }
+  ]
+}
